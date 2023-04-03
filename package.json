@@ -1,5 +1,5 @@
 {
-  "name": "@zodios/express",
+  "name": "@dwidge/zodios-express",
   "description": "Typescript express server",
   "version": "10.5.1",
   "main": "lib/index.js",
